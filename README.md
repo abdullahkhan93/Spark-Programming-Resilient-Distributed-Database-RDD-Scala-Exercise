@@ -1,4 +1,4 @@
-# Apache Spark Programming Exercises in Scala
+# Apache Spark Programming in Scala
 
 This project consists of simple programming problems to investigate the concepts of Resilient Distributed Database (RDD), DataFrames and Mllib in Apache Spark. Scala (functional programming language) is used to implement solutions to the stated problems.
 
