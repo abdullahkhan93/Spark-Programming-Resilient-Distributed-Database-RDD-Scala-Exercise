@@ -6,7 +6,7 @@ This project consists of simple programming problems to investigate the concepts
 
 The following instructions and commands will be helpful in development and testing purposes on the local machine after the repository has been downloaded.
 
-1. cd rdd (Navigate to the specific rpoject directory)
+1. cd <i>project folder</i> (Navigate to the specific project directory)
 1. sbt download (Downloads the datasets)
 2. sbt test (Running simple test cases on the code)
 3. sbt run (Executing the code)
