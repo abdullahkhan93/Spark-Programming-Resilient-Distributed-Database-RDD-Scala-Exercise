@@ -11,7 +11,7 @@ The following instructions and commands will be helpful in development and testi
 2. sbt test (Running simple test cases on the code)
 3. sbt run (Executing the code)
 
-### Prerequisites
+## Pre-requisites
 
 What things you need to install
 
@@ -20,3 +20,4 @@ What things you need to install
 2. SBT (0.13 or greater)
 3. Apache Spark (2.0 or greater) 
 ```
+
